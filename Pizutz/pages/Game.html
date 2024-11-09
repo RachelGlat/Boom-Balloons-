@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('../picture/green-landscape-view-background-wallpaper-1366x768_46.jpg');
+            background-size: cover;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title>משחק פיצוצים</title>
+    <link href="../styleSheet/StyleSheet1.css" rel="stylesheet" />
+    <script src="../js/conductors.js"></script>
+    <script src="../js/details.js"></script>
+    <script src="../js/stract.js"></script>
+</head>
+<body onload="Init()" dir="rtl">
+    <div id="Sdetails">
+        <section style="flex-grow:4">
+            שם השחקן:
+            <span id="np"></span>
+        </section>
+        <section style="flex-grow:1">
+            מספר האלמנטים במשחק:
+            <span id="AmountOfElement"></span>
+        </section>
+        <section style="flex-grow:1">
+            רמת המשחק:
+            <span id="level"></span><br />
+        </section>
+        <section style="flex-grow:1">
+            האלמנט הנבחר:
+            <span id="random"></span>
+        </section>
+        <section style="flex-grow:1">
+            <img id="pic" />
+        </section>
+        <section style="flex-grow:1">
+            מספר הנקודות:
+            <span id="dots">0</span>
+        </section>
+        <section style="flex-grow:7">
+            <button id="over" onclick="goConductors()">עבור לטבלת האלופים</button>
+        </section>
+    </div>
+    <div id="go">
+    </div>
+</body>
+</html>

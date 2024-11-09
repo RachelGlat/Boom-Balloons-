@@ -1,0 +1,170 @@
+﻿.imgElements {
+    width: 50px;
+    margin: 20px;
+}
+
+
+body {
+    font-size: x-large;
+    margin: 20px;
+}
+
+#NamePlayer {
+    display: none;
+}
+
+#Sdetails {
+    height: 80px;
+    background: #cbe551;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    display: flex;
+}
+
+section {
+    margin: 25px;
+    align-content: space-between;
+    color: #7e571e;
+}
+
+#over {
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    width: 170px;
+    height: 30px;
+    font-size: medium;
+    background: #a7c6da;
+    box-shadow: inset;
+    color: #7e571e;
+    border: ridge;
+    border-color: #7e571e;
+    border-radius: 30px;
+}
+span{
+    font-weight:bold;
+}
+#go {
+    text-align: center;
+    font-size: xx-large;
+}
+.newPic{
+    animation:moveR 30s infinite;
+}
+@keyframes moveR{
+    50%{
+        transform:rotate(360deg);
+    }
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 55% 45%;
+}
+
+#divi2 {
+    border: dashed;
+    border-color: #7e571e;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+
+h3 {
+    text-align: center;
+}
+
+#divi1 {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+input {
+    height: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #7e571e;
+}
+
+h4 {
+    font-weight: bold;
+}
+#toPlay {
+    height: 50px;
+    width: 250px;
+    font-size: x-large;
+    font-weight: bold;
+    color: #7e571e;
+    border: dotted;
+    border-color: #7e571e;
+    position: absolute;
+    right: 200px;
+    top: 350px;
+
+}
+#del {
+    border: inset;
+    font: icon;
+    width: 200px;
+    font-weight: bold;
+    height: 60px;
+    font-size: x-large;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    color: #7e571e;
+}
+
+#back {
+    border: inset #7e571e;
+    font: icon;
+    width: 100px;
+    font-weight: bold;
+    height: 30px;
+    font-size: x-large;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    color: #7e571e
+}
+#Ctable {
+    display:flex;
+}
+table {
+
+/*    width: 100%;*/
+    margin-right: 180px;
+    align-self:flex-start;
+}
+
+
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #e9e9e9;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+

@@ -1,0 +1,472 @@
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.dll.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.pdb
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+F:\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.dll.config
+F:\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\Pizutz.pdb
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.exe
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csc.rsp
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.exe
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\csi.rsp
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.exe
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+F:\רחל ומוריה\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+F:\רחל ומוריה\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\רחל ומוריה\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+F:\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+F:\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+F:\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+F:\רחל ומוריה\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+D:\Pizutz\Pizutz\bin\Pizutz.dll.config
+D:\Pizutz\Pizutz\bin\Pizutz.dll
+D:\Pizutz\Pizutz\bin\Pizutz.pdb
+D:\Pizutz\Pizutz\bin\roslyn\csc.exe
+D:\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+D:\Pizutz\Pizutz\bin\roslyn\csc.rsp
+D:\Pizutz\Pizutz\bin\roslyn\csi.exe
+D:\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+D:\Pizutz\Pizutz\bin\roslyn\csi.rsp
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+D:\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Pizutz\Pizutz\bin\roslyn\vbc.exe
+D:\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+D:\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+D:\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+D:\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+D:\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+D:\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+D:\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+D:\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+D:\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.pdb
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+H:\תכנות שנה א תשפג\פרויקט בלונים\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll.config
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.pdb
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.rsp
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.rsp
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+D:\רחל ומוריה\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll.config
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.pdb
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.rsp
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.rsp
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+C:\Users\יגודייב\Desktop\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll.config
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.pdb
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.rsp
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.rsp
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+F:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.pdb
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll.config
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Pizutz.pdb
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.exe.config
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csc.rsp
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.exe.config
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\csi.rsp
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Managed.Core.targets
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.AppContext.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Collections.Immutable.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Console.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Globalization.Calendars.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Http.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Net.Sockets.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Reflection.Metadata.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.ValueTuple.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XmlDocument.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.exe.config
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\vbc.rsp
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\roslyn\VBCSCompiler.exe.config
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.AssemblyReference.cache
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CoreCompileInputs.cache
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.csproj.CopyComplete
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.dll
+G:\גמור\מוריה יום שני\Pizutz\Pizutz\obj\Debug\Pizutz.pdb

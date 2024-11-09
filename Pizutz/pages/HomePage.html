@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('../picture/tn_Cat_489491_1112.jpg');
+            background-size: cover;
+            color: #7e571e;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title>פרטי המשחק</title>
+    <link href="../styleSheet/StyleSheet1.css" rel="stylesheet" />
+    <script src="../js/details.js"></script>
+    <script src="../js/stract.js"></script>
+</head>
+<body onload="details()" dir="rtl">
+    <div class="wrapper">
+        <div>
+            <div id="divi1">
+                שם השחקן:&nbsp;&nbsp;
+                <select id="InsertName" onchange="CoverText()">
+                    <option>לבחירה מרשימת שחקנים קיימים</option>
+                </select>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button onclick="DiscoverText()">שחקן חדש</button>
+                <input id="NamePlayer" type="text" placeholder="הכנס שם" /><br /><br />
+                בחר מספר אלמנטים שיכיל המשחק:
+                <input id="AmountOfElement" type="number" step="10" min="50" max="250" value="50" /><br /><br />
+                רמת המשחק:
+                <input id="level" type="number" min="1" max="3" value="1" /><br /><br />
+                <input id="PictureRandom" checked="checked" type="radio" name="picture" onchange="RemovePicture()" /><label for="PictureRandom"> תמונה אקראית</label><br />
+                <input id="PictureSelect" type="radio" name="picture" onchange="CreatePicture()" /><label for="PictureSelect"> בחירת תמונה</label>
+                <div id="ListOfImage"></div><br />
+                <input id="toPlay" type="button" value=" למשחק  😜 " onclick="goGame()" />
+            </div>
+        </div>
+        <div id="divi2">
+            <section>
+                <h2>משחק הפיצוצים</h2>
+            </section>
+            <section>
+                <h4>הוראות המשחק:</h4>
+            </section>
+            <section>
+                על השחקן להכניס את שמו או לבחור את שמו מרשימת השחקנים.
+            </section>
+            <section>
+                כמו כן על השחקן לבחור את רמת המשחק שבה הוא מעוניין (1-3),
+            </section>
+            <section>
+                את כמות האלמנטים שברצונו שיופיעו על המסך במהלך המשחק
+            </section>
+            <section>
+                וכן את תמונת האלמנט איתה מעוניין לשחק.
+            </section>
+            <section>
+                (במקרה ולא תבחר תמונה ממאגר התמונות , תוגרל תמונה אקראית).
+            </section>
+            <section>
+                לאחר מכן נוכל לעבור לשלב המשחק:
+            </section>
+            <section>
+                על המסך יווצרו האלמנטים כפי בחירתכם ומהירות היווצרותם ותזוזתם
+            </section>
+            <section>
+                יהיו לפי רמת הקושי שבחרתם.
+            </section>
+            <section>
+                עליכם לפוצץ כמה שיותר אלמנטים בזמן המוקצב.
+            </section>
+            <section>
+                על כל פיצוץ תזכו ב-5 נקודות...
+            </section>
+            <section>
+                שחקו בהנאה ואולי תכנסו לרשימת האלופים!!!
+            </section>
+        </div>
+    </div>
+</body>
+</html>
